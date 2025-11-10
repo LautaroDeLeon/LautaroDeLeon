@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Lautaro De León  
 
-<!--
-**LautaroDeLeon/LautaroDeLeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Analista Programador** egresado de **CEI Maldonado – CLAEH**  
+📍 Maldonado, Uruguay  
 
-Here are some ideas to get you started:
+### 🚀 Sobre mí
+Soy una persona apasionada por la tecnología y el desarrollo de software.  
+Disfruto aprender nuevas herramientas, resolver problemas y trabajar en equipo.  
+Actualmente busco mi primera oportunidad profesional en el área IT, para seguir creciendo como desarrollador.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🧠 Tecnologías que manejo
+💡 **Lenguajes y frameworks:**  
+- .NET (C#)  
+- .NET MAUI  
+- Angular / JavaScript / TypeScript  
+- Flutter  
+- Java  
+- SQL Server  
+
+🛠️ **Herramientas y otros:**  
+- Git / GitHub  
+- Visual Studio / VS Code  
+- Postman  
+
+
+### 📱 Proyectos destacados
+
+#### 🎰 Sistema de gestión de casino  
+Aplicación móvil para clientes con módulo web de administración y reloj de póker en tiempo real.  
+**Tecnologías:** Flutter, Angular, .NET Core (C#), SQL Server  
+
+
+#### 📦 Aplicación para distribuidora  
+App móvil para la gestión de clientes, pedidos y stock.  
+**Tecnologías:** Flutter, .NET Core (C#), SQL Server  
+
+
+### 🤝 Conectemos
+Si te interesa conversar sobre desarrollo, tecnología o proyectos, ¡me encantaría conectar!  
+
+📧 **lautaroodeleonn@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/lautaro-de-leon/)
